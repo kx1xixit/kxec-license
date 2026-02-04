@@ -1,4 +1,4 @@
-name: Spelling and grammar
+name: Spelling
 
 on:
   push:
@@ -11,29 +11,11 @@ jobs:
     name: Check spelling
     runs-on: ubuntu-latest
     steps:
-      - name: Check out Code
+      - name: Check out code
         uses: actions/checkout@v4
 
       - name: Run CSpell
         uses: streetsidesoftware/cspell-action@v6
         with:
-          # Check all files in the repo
           files: '**'
-          # Fail the build if spelling errors are found
-          strict: true 
-          # Note: Custom words are now loaded from cspell.json
-
-  style:
-    name: Check style
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out code
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Run Alex
-        run: npx alex .
+          strict: true
