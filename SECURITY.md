@@ -1,6 +1,6 @@
 # KXEC security policy
 
-KXEC does not necessarily have a security policy, as updating the license requires a bump in the version. This also means that **only the latest version of KXEC is recieving security updates**.
+KXEC does not necessarily have a security policy, as updating the license requires a bump in the version. This also means that **only the latest version of KXEC is receiving security updates**.
 
 ## Finding vulnerabilities
 
