@@ -1,6 +1,6 @@
-> **Note:** KXEC has recently undergone a naming change (KBEC -> KXEC) to obscure the writer's full name, and a minor revision has been released (KXEC-1.1). Note that your rights have not been changed, and you are not required to update your license immediately to the new version. However, KXEC-1.1 removes your patent right to sell or offer to sell.
-
 # Introduction to KXEC
+
+> **Note:** KXEC has recently undergone a naming change (KBEC -> KXEC) to obscure the writer's full name, and a minor revision has been released (KXEC-1.1). Note that your rights have not been changed, and you are not required to update your license immediately to the new version. However, KXEC-1.1 removes your patent right to sell or offer to sell.
 
 KXEC's main goal and philosophy is to protect developers who refuse to let their code be abused, but who also want to keep their code open-source (or rather, source-available). Please note: the KXEC is not an open-source license; it is best described as "ethical source-available".
 
