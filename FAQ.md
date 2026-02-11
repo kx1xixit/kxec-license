@@ -1,6 +1,6 @@
 # Frequently Asked Questions: KXEC-1.1 License
 
-This project is licensed under the **@kx1xixit Ethical Copyleft (KXEC-1.0)**. This is a "source-available" license designed to keep software free, safe, and open for modification, while preventing commercial exploitation and malicious use.
+This project is licensed under the **@kx1xixit Ethical Copyleft (KXEC-1.1)**. This is a "source-available" license designed to keep software free, safe, and open for modification, while preventing commercial exploitation and malicious use.
 
 Below are answers to common questions about how you can use this software.
 
@@ -93,4 +93,4 @@ Please contact the repository maintainers via the contact information provided i
 
 ---
 
-*Disclaimer: This FAQ is for informational purposes only and does not constitute legal advice. In the event of a conflict between this FAQ and the KXEC-1.0 License text, the License text governs.*
+*Disclaimer: This FAQ is for informational purposes only and does not constitute legal advice. In the event of a conflict between this FAQ and the KXEC-1.1 License text, the License text governs.*
