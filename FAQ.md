@@ -1,6 +1,6 @@
-# Frequently Asked Questions: KBEC-1.0 License
+# Frequently Asked Questions: KXEC-1.1 License
 
-This project is licensed under the **Kane Boswell Ethical Copyleft (KBEC-1.0)**. This is a "source-available" license designed to keep software free, safe, and open for modification, while preventing commercial exploitation and malicious use.
+This project is licensed under the **@kx1xixit Ethical Copyleft (KXEC-1.0)**. This is a "source-available" license designed to keep software free, safe, and open for modification, while preventing commercial exploitation and malicious use.
 
 Below are answers to common questions about how you can use this software.
 
@@ -22,15 +22,15 @@ No. You may use this software, modify it, and redistribute it using a pseudonym,
 
 ## Commercial Use & Money
 
-### Can I sell KBEC software?
+### Can I sell KXEC software?
 
 **No.** You cannot sell the software files, binaries, or access to the software (e.g., behind a paywall).
 
-### Can I use KBE software in a commercial environment?
+### Can I use KXEC software in a commercial environment?
 
 You may use it internally at a company (e.g., for data processing or internal tools), provided you do not sell the software itself to third parties and you abide by the source-sharing requirements if you distribute it to employees.
 
-### I am a freelancer/consultant. Can I install KBEC software for a client?
+### I am a freelancer/consultant. Can I install KXEC software for a client?
 
 **Yes.** You can charge your client for your **time**, **labor**, **customization**, and **hosting**.
 
@@ -55,7 +55,7 @@ You cannot use this software to:
 * Conduct Denial of Service (DDoS) attacks.
 * Perform mass surveillance on users.
 
-### I am a security researcher. Can I use KBEC software for penetration testing?
+### I am a security researcher. Can I use KXEC software for penetration testing?
 
 **Yes.** The license includes a specific exception for defensive security research and penetration testing, provided you have explicit authorization from the target system's owner.
 
@@ -63,17 +63,17 @@ You cannot use this software to:
 
 ## Sharing and Modifications (Copyleft)
 
-### If I modify KBEC software code, do I have to share my changes?
+### If I modify KXEC software code, do I have to share my changes?
 
 **Yes.** If you distribute your modified version to *anyone else* (including a client), you must publish the source code.
 
-### I'm running this KBEC code on a server (SaaS/Website). Do I have to share my code?
+### I'm running this KXEC code on a server (SaaS/Website). Do I have to share my code?
 
 **Yes.** Section 3.4 (The "Website" Clause) requires that if you run this software as a service accessible over a network, you must make the source code (including your modifications) available to the users of that service (e.g., via a link in the footer).
 
-### Can I mix this KBEC code with GPL code?
+### Can I mix this KXEC code with GPL code?
 
-**No.** The KBEC license places extra restrictions on the user (non-commercial, ethical use) that the GNU GPL explicitly forbids. You cannot combine this code with GPL code into a single program.
+**No.** The KXEC license places extra restrictions on the user (non-commercial, ethical use) that the GNU GPL explicitly forbids. You cannot combine this code with GPL code into a single program.
 
 ### Can I keep my changes private?
 
@@ -93,4 +93,4 @@ Please contact the repository maintainers via the contact information provided i
 
 ---
 
-*Disclaimer: This FAQ is for informational purposes only and does not constitute legal advice. In the event of a conflict between this FAQ and the KBEC-1.0 License text, the License text governs.*
+*Disclaimer: This FAQ is for informational purposes only and does not constitute legal advice. In the event of a conflict between this FAQ and the KXEC-1.0 License text, the License text governs.*
