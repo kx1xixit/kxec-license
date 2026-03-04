@@ -1,6 +1,10 @@
 # Introduction to KXEC
 
-> **Note:** KXEC has recently undergone a naming change (KBEC -> KXEC) to obscure the writer's full name. KXEC-1.2 is the latest version. Note that your rights have not been changed, and you are not required to update your license immediately to the new version. However, KXEC-1.1 removes your patent right to sell or offer to sell, and KXEC-1.2 adds a project-abandonment rule requiring public-domain release if you permanently stop development.
+> **Note:** KXEC has recently undergone a naming change (KBEC → KXEC) to obscure the writer's full name. KXEC-1.2 is the latest version.
+>
+> **Existing users:** If you are already using an earlier KXEC/KBEC version, your existing rights and obligations under that version are unchanged, and you are not required to update immediately.
+>
+> **Version highlights:** KXEC-1.1 removes your patent right to sell or offer to sell. KXEC-1.2 adds a project-abandonment rule: if you permanently stop development (e.g., archive the repository), you must release the covered files to the public domain (CC0 or equivalent) within 90 days.
 
 KXEC's main goal and philosophy is to protect developers who refuse to let their code be abused, but who also want to keep their code open-source (or rather, source-available). Please note: the KXEC is not an open-source license; it is best described as "ethical source-available".
 
