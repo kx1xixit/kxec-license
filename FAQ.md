@@ -1,6 +1,6 @@
-# Frequently Asked Questions: KXEC-1.1 License
+# Frequently Asked Questions: KXEC-1.2 License
 
-This project is licensed under the **@kx1xixit Ethical Copyleft (KXEC-1.1)**. This is a "source-available" license designed to keep software free, safe, and open for modification, while preventing commercial exploitation and malicious use.
+This project is licensed under the **@kx1xixit Ethical Copyleft (KXEC-1.2)**. This is a "source-available" license designed to keep software free, safe, and open for modification, while preventing commercial exploitation and malicious use.
 
 Below are answers to common questions about how you can use this software.
 
@@ -81,6 +81,22 @@ Only if you **never** distribute the software and **never** run it as a public n
 
 ---
 
+## Project Abandonment
+
+### What happens if I permanently stop developing my project?
+
+If you are the Licensor and you permanently cease all development and maintenance — for example, by archiving the repository on GitHub or publishing a formal notice of abandonment — you must, within **90 days**, release those portions of the KXEC-covered files into the public domain to the maximum extent permitted by applicable law and the rights you hold. This release must be accomplished by applying the **Creative Commons Zero (CC0 1.0 Universal)** dedication or an equivalent irrevocable public-domain dedication. This obligation covers only the portions of the covered files for which you hold or have obtained sufficient rights (e.g., via a contributor license agreement, copyright assignment, or equivalent inbound grant); it does not require you to relicense third-party contributions or any portions of the covered files for which you lack sufficient rights.
+
+### What counts as "abandonment"?
+
+Archiving the project's repository (e.g., marking it as archived on GitHub) or publishing a formal notice of abandonment both trigger this obligation. A temporary hiatus or slow development pace does not constitute abandonment.
+
+### Does this affect people who already received the software?
+
+No. This obligation applies only to the Licensor's own copies of those portions of the covered files for which the Licensor holds sufficient rights. It does not extend to third-party contributions the Licensor does not control, and it does not retroactively change the license terms under which third parties previously received The Software.
+
+---
+
 ## License Violations
 
 ### What happens if I violate the license?
@@ -93,4 +109,4 @@ Please contact the repository maintainers via the contact information provided i
 
 ---
 
-*Disclaimer: This FAQ is for informational purposes only and does not constitute legal advice. In the event of a conflict between this FAQ and the KXEC-1.1 License text, the License text governs.*
+*Disclaimer: This FAQ is for informational purposes only and does not constitute legal advice. In the event of a conflict between this FAQ and the KXEC-1.2 License text, the License text governs.*
