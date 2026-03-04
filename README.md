@@ -21,7 +21,7 @@ If you use the KXEC license in your code, you are:
 * **Forced to share the source code:** You must make the source code publicly available and easily accessible. You cannot distribute the software exclusively in compiled or obfuscated forms.
 * **Forced to keep the software free:** You may not engage in commercial use. This means you cannot put the software behind a paywall or within a subscription service.
 * **Required to disclose SaaS use:** If you run the software as a service, you must publish modifications and include a permanent link to the source in the application UI.
-* **Required to release to the public domain if you abandon the project:** If you permanently cease development (e.g., archive the repository), you must release the covered files under CC0 or an equivalent public-domain dedication within 90 days.
+* **Required to release rights-held portions to the public domain if you abandon the project (LICENSE §3.6):** As the Licensor, if you permanently cease development (e.g., archive the repository), you must release those portions of the KXEC-covered files for which you hold sufficient rights under CC0 or an equivalent public-domain dedication within 90 days. Third-party contributions you do not control are excluded, and this obligation does not retroactively affect prior recipients.
 
 However, you can:
 

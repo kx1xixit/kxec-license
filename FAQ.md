@@ -85,7 +85,7 @@ Only if you **never** distribute the software and **never** run it as a public n
 
 ### What happens if I permanently stop developing my project?
 
-If you are the original Licensor or lead maintainer and you permanently cease all development and maintenance — for example, by archiving the repository on GitHub — you must release the KXEC-covered files into the public domain within **90 days**. The recommended way to do this is to apply the **Creative Commons Zero (CC0 1.0 Universal)** dedication to those files.
+If you are the Licensor and you permanently cease all development and maintenance — for example, by archiving the repository on GitHub or publishing a formal notice of abandonment — you must, within **90 days**, release those portions of the KXEC-covered files into the public domain to the maximum extent permitted by applicable law and the rights you hold. This obligation covers only the portions of the covered files for which you hold or have obtained sufficient rights (e.g., via a contributor license agreement, copyright assignment, or equivalent inbound grant); it does not require you to relicense third-party contributions or any portions of the covered files for which you lack sufficient rights. The recommended way to apply this release is to use the **Creative Commons Zero (CC0 1.0 Universal)** dedication.
 
 ### What counts as "abandonment"?
 
@@ -93,7 +93,7 @@ Archiving the project's repository (e.g., marking it as archived on GitHub) or p
 
 ### Does this affect people who already received the software?
 
-No. This obligation only applies to the Licensor's own copy of the covered files. It does not retroactively change the license terms under which third parties previously received The Software.
+No. This obligation applies only to the Licensor's own copies of those portions of the covered files for which the Licensor holds sufficient rights. It does not extend to third-party contributions the Licensor does not control, and it does not retroactively change the license terms under which third parties previously received The Software.
 
 ---
 
