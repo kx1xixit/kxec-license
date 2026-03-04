@@ -1,6 +1,6 @@
-# Frequently Asked Questions: KXEC-1.1 License
+# Frequently Asked Questions: KXEC-1.2 License
 
-This project is licensed under the **@kx1xixit Ethical Copyleft (KXEC-1.1)**. This is a "source-available" license designed to keep software free, safe, and open for modification, while preventing commercial exploitation and malicious use.
+This project is licensed under the **@kx1xixit Ethical Copyleft (KXEC-1.2)**. This is a "source-available" license designed to keep software free, safe, and open for modification, while preventing commercial exploitation and malicious use.
 
 Below are answers to common questions about how you can use this software.
 
@@ -81,6 +81,22 @@ Only if you **never** distribute the software and **never** run it as a public n
 
 ---
 
+## Project Abandonment
+
+### What happens if I permanently stop developing my project?
+
+If you are the original Licensor or lead maintainer and you permanently cease all development and maintenance — for example, by archiving the repository on GitHub — you must release the KXEC-covered files into the public domain within **90 days**. The recommended way to do this is to apply the **Creative Commons Zero (CC0 1.0 Universal)** dedication to those files.
+
+### What counts as "abandonment"?
+
+Archiving the project's repository (e.g., marking it as archived on GitHub) or publishing a formal notice of abandonment both trigger this obligation. A temporary hiatus or slow development pace does not constitute abandonment.
+
+### Does this affect people who already received the software?
+
+No. This obligation only applies to the Licensor's own copy of the covered files. It does not retroactively change the license terms under which third parties previously received The Software.
+
+---
+
 ## License Violations
 
 ### What happens if I violate the license?
@@ -93,4 +109,4 @@ Please contact the repository maintainers via the contact information provided i
 
 ---
 
-*Disclaimer: This FAQ is for informational purposes only and does not constitute legal advice. In the event of a conflict between this FAQ and the KXEC-1.1 License text, the License text governs.*
+*Disclaimer: This FAQ is for informational purposes only and does not constitute legal advice. In the event of a conflict between this FAQ and the KXEC-1.2 License text, the License text governs.*

@@ -1,5 +1,5 @@
 @kx1xixit Ethical Copyleft (KXEC)
-Version KXEC-1.2
+Version KXEC-1.1
 
 Copyright (c) 2026 @kx1xixit [<- REPLACE THIS WITH YOUR NAME]
 
@@ -54,11 +54,8 @@ Acceptable Mechanisms: A "Source Code" link in the footer, a link in the "About"
 3.5 Attribution
 You must retain all copyright, patent, trademark, and attribution notices present in the Source Code.
 
-3.6 Project Abandonment — Public Domain Release
-If You, as the original Licensor or lead maintainer of a project covered by this License, permanently cease all development and maintenance of that project — including but not limited to archiving the project's repository (e.g., marking it as archived on GitHub or an equivalent hosting platform) or publishing a formal notice of abandonment — You must, within ninety (90) days of that action, release the KXEC-covered files of that project into the public domain by applying the Creative Commons Zero (CC0 1.0 Universal) dedication or an equivalent irrevocable public domain dedication to those files. This obligation applies to the Licensor's own copy of the covered files and does not retroactively alter the license terms under which third parties previously received The Software.
-
 PATENT LICENSE AND PROTECTION
-a. Grant: Each Contributor grants You a non-exclusive, worldwide, royalty-free patent license to make, use, import, and otherwise run, modify, and propagate the contents of its Contribution. (Note: The patent license does not override the license’s copyright-based restrictions on Commercial Use).
+a. Grant: Each Contributor grants You a non-exclusive, worldwide, royalty-free patent license to make, use, import, and otherwise run, modify, and propagate the contents of its Contribution. (Note: The patent license does not override the license's copyright-based restrictions on Commercial Use).
 b. Defensive Termination: If You initiate patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that The Software constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License terminate as of the date such litigation is filed.
 
 COMPATIBILITY AND INCOMPATIBILITY
